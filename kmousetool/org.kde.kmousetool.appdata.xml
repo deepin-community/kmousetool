@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component type="desktop-application">
+  <id>org.kde.kmousetool</id>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KMouseTool</name>
+  <name xml:lang="ca">KMouseTool</name>
+  <name xml:lang="ca-valencia">KMouseTool</name>
+  <name xml:lang="cs">KMouseTool</name>
+  <name xml:lang="da">KMouseTool</name>
+  <name xml:lang="de">KMouseTool</name>
+  <name xml:lang="el">KMouseTool</name>
+  <name xml:lang="en-GB">KMouseTool</name>
+  <name xml:lang="es">KMouseTool</name>
+  <name xml:lang="et">KMouseTool</name>
+  <name xml:lang="eu">KMouseTool</name>
+  <name xml:lang="fi">KMouseTool</name>
+  <name xml:lang="fr">KMouseTool</name>
+  <name xml:lang="gl">KMouseTool</name>
+  <name xml:lang="ia">KMouseTool</name>
+  <name xml:lang="id">KMouseTool</name>
+  <name xml:lang="it">KMouseTool</name>
+  <name xml:lang="ko">KMouseTool</name>
+  <name xml:lang="nl">KMouseTool</name>
+  <name xml:lang="nn">KMouseTool</name>
+  <name xml:lang="pl">KMouseTool</name>
+  <name xml:lang="pt">KMouseTool</name>
+  <name xml:lang="pt-BR">KMouseTool</name>
+  <name xml:lang="ro">KMouseTool</name>
+  <name xml:lang="ru">KMouseTool</name>
+  <name xml:lang="sk">KMouseTool</name>
+  <name xml:lang="sl">KMouseTool</name>
+  <name xml:lang="sv">Kmousetool</name>
+  <name xml:lang="uk">KMouseTool</name>
+  <name xml:lang="x-test">xxKMouseToolxx</name>
+  <name xml:lang="zh-CN">K 鼠标工具</name>
+  <name xml:lang="zh-TW">KMouseTool</name>
+  <summary>Automatic clicks to reduce the effects of repetitive strain injury</summary>
+  <summary xml:lang="ca">Els clics automàtics redueixen els efectes la síndrome del canal carpià</summary>
+  <summary xml:lang="ca-valencia">Els clics automàtics redueixen els efectes la síndrome del canal carpià</summary>
+  <summary xml:lang="da">Klikker automatisk for at reducere skadevirkningerne ved ensidigt gentaget arbejde</summary>
+  <summary xml:lang="de">Automatische Mausklicks zur Vorbeugung gegen das RSI-Syndrom</summary>
+  <summary xml:lang="el">Αυτόματα κλικ για να μειωθούν οι συνέπειες των κακώσεων λόγω επαναλαμβανόμενης καταπόνησης</summary>
+  <summary xml:lang="en-GB">Automatic clicks to reduce the effects of repetitive strain injury</summary>
+  <summary xml:lang="es">Clics automáticos para reducir el efecto de lesiones por esfuerzo repetitivo</summary>
+  <summary xml:lang="et">Automaatne klõpsamine ülekoormuskahjustuse mõjude vähendamiseks</summary>
+  <summary xml:lang="eu">Esfortzu errepikakorraren ondoriozko lesioaren efektuak murrizteko klik automatikoak</summary>
+  <summary xml:lang="fi">Hiiren automaattinapsautukset rasitusvammojen vaikutusten vähentämiseksi</summary>
+  <summary xml:lang="fr">Clics automatiques pour réduire les effets des troubles musculo-squelettiques</summary>
+  <summary xml:lang="id">Klik otomatis untuk mengurangi efek cedera pegal</summary>
+  <summary xml:lang="it">Clic automatici per ridurre gli effetti del disturbo degli arti superiori da lavoro</summary>
+  <summary xml:lang="ko">자동 클릭으로 반복성 긴장 장애 예방</summary>
+  <summary xml:lang="nl">Automatische klik om het effect van RSI (repetitive strain injury) te voorkomen</summary>
+  <summary xml:lang="nn">Automatiske klikk hjelper deg å unngå musesjuke</summary>
+  <summary xml:lang="pl">Samoczynne kliknięcia, aby ograniczyć efekt kontuzji spowodowanych powtarzaną czynnością</summary>
+  <summary xml:lang="pt">'Clicks' automáticos para reduzir os efeitos de lesões por movimentos repetitivos</summary>
+  <summary xml:lang="pt-BR">Cliques automáticos para reduzir os efeitos das lesões por esforço repetitivo</summary>
+  <summary xml:lang="ro">Face clicuri automate pentru a reduce efectele leziunilor de încordare repetitivă</summary>
+  <summary xml:lang="ru">Автоматический щелчок мышью для предупреждения хронического растяжения сухожилий</summary>
+  <summary xml:lang="sl">Samodejni kliki za zmanjšanje učinkov ponavljajočih se poškodb zaradi obremenitve</summary>
+  <summary xml:lang="sv">Automatiska klick för att reducera effekten av belastningsskador</summary>
+  <summary xml:lang="uk">Автоматично клацає для запобігання шкоді вашому здоров'ю від постійного напруження</summary>
+  <summary xml:lang="x-test">xxAutomatic clicks to reduce the effects of repetitive strain injuryxx</summary>
+  <description>
+    <p>
+     KMouseTool clicks the mouse for you, so you don't have to. KMouseTool works with any mouse or pointing device.
+    </p>
+    <p xml:lang="ca">El KMouseTool fa el clic de ratolí per vós, així que no ho heu de fer. El KMouseTool funciona amb qualsevol ratolí o dispositiu apuntador.</p>
+    <p xml:lang="ca-valencia">El KMouseTool fa el clic de ratolí per vós, així que no ho heu de fer. El KMouseTool funciona amb qualsevol ratolí o dispositiu apuntador.</p>
+    <p xml:lang="da">KMouseTool klikker med musen for dig, så du ikke behøver gøre det. KMouseTool virker med alle mus og pegeenheder.</p>
+    <p xml:lang="de">KMouseTool drückt die Maustaste für Sie und funktioniert mit jeder Maus und jedem Zeigergerät.</p>
+    <p xml:lang="el">Το KMouseTool κάνει κλικ το ποντίκι, έτσι εσείς δεν χρειάζεται να το κάνετε. Το KMouseTool λειτουργεί με κάθε ποντίκι ή συσκευή με δείκτη.</p>
+    <p xml:lang="en-GB">KMouseTool clicks the mouse for you, so you don't have to. KMouseTool works with any mouse or pointing device.</p>
+    <p xml:lang="es">KMouseTool pulsa los botones del ratón por usted. KMouseTool funciona con cualquier ratón o dispositivo apuntador.</p>
+    <p xml:lang="et">KMouseTool teeb sinu eest hiireklõpsu, vabastades sind vaevast. KMouseTool töötab koos kõigi hiirte või osutusseadmetega.</p>
+    <p xml:lang="eu">KMouseTool tresnak saguari klik egiten dio zure ordez, zuk egin behar ez dezazun. KMouseTool edozein sagu edo gailu erakuslerekin dabil.</p>
+    <p xml:lang="fi">KMouseTool napsauttaa hiirtä puolestasi, jottei sinun tarvitse. KMouseTool toimii kaikilla hiirillä ja osoitinlaitteilla.</p>
+    <p xml:lang="fr">KMouseTool clique sur la souris pour vous afin que vous n'ayez pas à le faire. KMouseTool fonctionne avec n'importe quelle souris ou dispositif de pointage.</p>
+    <p xml:lang="gl">KMouseTool preme o rato por vostede. KMouseTool funciona con calquera rato ou dispositivo de punteiro.</p>
+    <p xml:lang="id">KMouseTool mengeklik mouse untuk kamu, jadi kamu tidak perlu melakukannya. KMouseTool bekerja dengan mouse atau perangkat penunjuk apa pun.</p>
+    <p xml:lang="it">KMouseTool fa clic col mouse per te, cosicché tu non debba farlo. Funziona con qualsiasi mouse o strumento di puntamento.</p>
+    <p xml:lang="ko">KMouseTool은 여러분을 대신하여 마우스 단추를 눌러 줍니다. 마우스 및 포인팅 장치에 관계 없이 동작합니다.</p>
+    <p xml:lang="nl">KMouseTool klikt voor u de muis, dus hoeft u dat niet te doen. KMouseTool werkt met elke muis of aanwijzer.</p>
+    <p xml:lang="nn">KMouseTool trykkjer med musa for deg, slik at du slepp. Det fungerer med alle typar mus og peikeverktøy.</p>
+    <p xml:lang="pl">KMouseTool klika myszą za ciebie, abyś sam nie musiał ego robić. KMouseTool działa z każdą myszą lub urządzeniem wskazującym.</p>
+    <p xml:lang="pt">O KMouseTool carrega o botão do rato, para que não tenha de o fazer. O KMouseTool funciona com qualquer rato ou dispositivo de ponteiro.</p>
+    <p xml:lang="pt-BR">O KMouseTool clica o botão do mouse para você. Ele funciona com qualquer mouse ou dispositivo apontador.</p>
+    <p xml:lang="ro">KMouseTool apasă butonul mausului pentru dumneavoastră, ca să nu o faceți singur. KMouseTool funcționează cu orice maus sau dispozitiv de indicare.</p>
+    <p xml:lang="ru">Программа KMouseTool выполняет щелчки мышью за пользователя. KMouseTool работает с любой мышью или указывающим устройством.</p>
+    <p xml:lang="sk">KMouseTool za vás klikne myšou, takže vy nemusíte. KMouseTool spolupracuje s akoukoľvek myšou alebo ukazovacím zariadením.</p>
+    <p xml:lang="sl">KMouseTool klikne miško namesto vas, da vam tega ni treba. KMouseTool deluje s katero koli miško ali kazalno napravo.</p>
+    <p xml:lang="sv">Kmousetool klickar musen åt dig så att du inte behöver göra det. Kmousetool fungerar med vilken mus eller pekenhet som helst.</p>
+    <p xml:lang="uk">KMouseTool «клацає» кнопками миші за вас. KMouseTool працює замість будь-якої миші або координатного пристрою.</p>
+    <p xml:lang="x-test">xxKMouseTool clicks the mouse for you, so you don't have to. KMouseTool works with any mouse or pointing device.xx</p>
+    <p xml:lang="zh-CN">KMouseTool 为您单击鼠标，因此您不必这样做。KMouseTool 可用于任何鼠标或指针设备。</p>
+    <p xml:lang="zh-TW">KMouseTool 代你點擊滑鼠，你只需要看著就行。KMouseTool 支援任何滑鼠或指向裝置。</p>
+  </description>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kmousetool</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=kmousetool&amp;source=appdata</url>
+  <url type="help">https://docs.kde.org/?application=kmousetool</url>
+  <url type="homepage">https://www.kde.org/applications/utilities/kmousetool/</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://www.kde.org/images/screenshots/kmousetool.png</image>
+    </screenshot>
+  </screenshots>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kmousetool</binary>
+  </provides>
+  <launchable type="desktop-id">org.kde.kmousetool.desktop</launchable>
+</component>
